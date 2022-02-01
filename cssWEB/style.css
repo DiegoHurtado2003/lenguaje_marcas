@@ -1,0 +1,30 @@
+.container-fluid{
+  background-color: #bdac11;
+height: 800px;
+
+}
+
+
+.container{
+  background-color: red;
+  height: 600px;
+color: white;
+}
+
+.row{
+  height: 100px;
+  background-color: rebeccapurple;
+}
+.col{
+  height: 75px;
+}
+
+.amarillo{background-color: #153179
+}
+
+.pepe{background-color: #b95e0c
+}
+
+.paco{background-color: black;
+  height: 60px
+}

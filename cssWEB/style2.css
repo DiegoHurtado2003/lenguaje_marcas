@@ -1,0 +1,26 @@
+.row{
+    height: 600px;
+    background-color: rebeccapurple;
+}
+.col-6{
+    height: 100px;
+    background-color: #b95e0c;
+}
+
+.verde{
+    background-color: #0f5132;
+}
+
+.col-xxl-6 {
+    height: 100px;
+    background-color: #b95e0c;
+}
+
+.col-4{    height: 100px;
+    background-color: #e8b583;}
+
+.col-xxl-4{    height: 100px;
+    background-color: #bdac11;}
+
+.col-md-4{    height: 100px;
+    background-color: #ff0000;}

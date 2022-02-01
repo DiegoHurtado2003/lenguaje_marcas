@@ -1,0 +1,29 @@
+.row{
+ height: 200px;
+ background-color: #0c63e4;
+}
+
+.amarillo{
+    height: 25px;
+    background-color: #a89a34;
+}
+
+.rojo{
+    height: 25px;
+    background-color: #ff0000;}
+
+.morado{
+    height: 25px;
+    background-color: #6600ff;}
+
+.naranja{
+    height: 25px;
+    background-color: #ff8000;}
+
+.rosa{
+    height: 25px;
+    background-color: #f700ff;}
+
+.verde{
+    height: 25px;
+    background-color: #22ff00;}
